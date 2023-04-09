@@ -1,0 +1,47 @@
+
+/*I used this youtube https://www.youtube.com/watch?v=mFgltjfVV6A&t=369s to help me style my navigation bar*/
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+ul {
+
+}
+
+ul li {
+list-style: none;
+display:inline-block;
+line-height: 100px;
+}
+
+ul li a {
+text-decoration: none;
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(25, 27, 25);
+padding: 10px;
+}
+
+ul li a:hover {
+    color: darkslategray;
+}
+
+.Logo{
+    width: 50px;
+}
+.Plant{
+    width:100%;
+}
+ul li{
+    list-style: none;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+h1{
+    text-align: center;
+}
